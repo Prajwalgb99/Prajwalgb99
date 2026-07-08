@@ -4,9 +4,6 @@ Hi, I'm *Prajwal Biradar* — a passionate and detail-driven Information Science
 
 With a solid foundation in **Data Structures**, **Algorithms**, and **Software Engineering**, I love bringing ideas to life — from AI automation pipelines to full-stack web applications.
 
----
-![Developer Desk](https://github.com/user-attachments/assets/d20d0ba4-87b6-47c8-a45c-0a4ad79651d4)
----
 
 ## 🎓 Education
 
