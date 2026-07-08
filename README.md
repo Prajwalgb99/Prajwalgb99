@@ -33,7 +33,7 @@ A MERN-based property rental platform with secure property management, booking w
 - Developed AI-powered features including a property assistant for listing-related queries and a rental price suggestion system using Groq LLM.
 * *(Tech Stack: React, Node.js, Express.js, MongoDB, Groq AI, Docker, Cloudinary)*
 
-### 🛠️ AI Helpdesk System  
+### 🛠️ AI Helpdesk System  (Ongoing)
 An AI-powered helpdesk that allows users to create support tickets and receive context-aware AI solutions using Retrieval-Augmented Generation (RAG).
 - Implemented JWT-based authentication with role-based access control, providing separate dashboards for users and administrators.
 - Integrated n8n workflow automation for ticket routing, status updates, notifications, and AI-assisted responses.
@@ -58,13 +58,6 @@ A production-ready URL shortener with custom short codes, expiry, Redis caching 
   </a>
   <a href="mailto:prajwalgb19@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/YOUR-X-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
 </p>
 
 ---
