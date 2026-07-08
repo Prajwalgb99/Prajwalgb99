@@ -1,4 +1,4 @@
-<c><strong><h2>💫 Hi There</h2></strong></c>
+<c><strong><h2> Hi There</h2></strong></c>
 
 Hi, I'm *Prajwal Biradar* — a passionate and detail-driven Information Science Engineer from Mysuru, India. I specialize in **Full Stack Development (MERN)**, **Backend Engineering**, and **AI-powered Solutions**. I enjoy building scalable, secure, and user-focused applications that solve real-world problems.
 
