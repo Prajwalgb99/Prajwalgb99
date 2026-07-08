@@ -50,7 +50,7 @@ A production-ready URL shortener with custom short codes, expiry, Redis caching 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/prajwal-biradar-710b05299/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Prajwalgb99" target="_blank">
@@ -97,14 +97,4 @@ A production-ready URL shortener with custom short codes, expiry, Redis caching 
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwalgb99&show_icons=true&theme=radical" alt="Prajwal's GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalgb99&layout=compact&theme=radical" alt="Prajwal's Top Languages" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwalgb99&theme=radical" alt="Prajwal's GitHub Streak" />
-</p>
