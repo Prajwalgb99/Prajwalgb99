@@ -31,9 +31,13 @@ A MERN-based property rental platform with secure property management, booking w
 * *(Tech Stack: React, Node.js, Express.js, MongoDB, Groq AI, Docker, Cloudinary)*
 
 ### 🛠️ AI Helpdesk System  (Ongoing)
-An AI-powered helpdesk that allows users to create support tickets and receive context-aware AI solutions using Retrieval-Augmented Generation (RAG).
-- Implemented JWT-based authentication with role-based access control, providing separate dashboards for users and administrators.
-- Integrated n8n workflow automation for ticket routing, status updates, notifications, and AI-assisted responses.
+An AI-powered helpdesk system where users raise support tickets that get automatically classified by priority and category using an LLM, then routed to the right team through automated workflows.
+
+Built JWT-based authentication with role-based access control across three roles — user, agent, and admin — each with a dedicated dashboard.
+Integrated Groq AI to auto-classify incoming tickets (category, priority) and generate suggested replies for support agents.
+Automated ticket routing, team notifications, and SLA-based escalation using n8n workflows triggered via webhooks from the backend.
+
+
 * *(Tech Stack: React, Node.js, Express.js, MongoDB, Groq AI, n8n, JWT)*
 
 ### 🔗 URL Shortener  
