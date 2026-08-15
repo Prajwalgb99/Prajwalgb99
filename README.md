@@ -30,7 +30,7 @@ A MERN-based property rental platform with secure property management, booking w
 - Developed AI-powered features including a property assistant for listing-related queries and a rental price suggestion system using Groq LLM.
 * *(Tech Stack: React, Node.js, Express.js, MongoDB, Groq AI, Docker, Cloudinary)*
 
-### 🛠️ Deskline -AI Helpdesk System
+### 🛠️ Deskline -AI Helpdesk And Wokflow Automation System
 - An AI-powered helpdesk system where users raise support tickets that get automatically classified by priority and category using an LLM, then routed to the right team through automated workflows.
 - Built JWT-based authentication with role-based access control across three roles — user, agent, and admin — each with a dedicated dashboard.
 Integrated Groq AI to auto-classify incoming tickets (category, priority) and generate suggested replies for support agents.
