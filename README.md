@@ -24,27 +24,19 @@ An AI-powered study assistant that enables users to upload PDF notes and receive
 - Implemented real-time streaming AI responses using Server-Sent Events (SSE), conversation history, and secure JWT-based authentication.
 * *(Tech Stack: React, Node.js, MongoDB, Google Gemini AI, RAG)*
 
-### 🏠 Property Rental Management System  
+### 🏠 Nest Quest - Property Rental Management System  
 A MERN-based property rental platform with secure property management, booking workflows, and Cloudinary-powered image uploads.
 - Implemented role-based authentication using JWT tokens and bcrypt password hashing to differentiate between Owner and Tenant accounts.
 - Developed AI-powered features including a property assistant for listing-related queries and a rental price suggestion system using Groq LLM.
 * *(Tech Stack: React, Node.js, Express.js, MongoDB, Groq AI, Docker, Cloudinary)*
 
-### 🛠️ AI Helpdesk System  (Ongoing)
+### 🛠️ Deskline -AI Helpdesk System
 - An AI-powered helpdesk system where users raise support tickets that get automatically classified by priority and category using an LLM, then routed to the right team through automated workflows.
-
 - Built JWT-based authentication with role-based access control across three roles — user, agent, and admin — each with a dedicated dashboard.
 Integrated Groq AI to auto-classify incoming tickets (category, priority) and generate suggested replies for support agents.
 Automated ticket routing, team notifications, and SLA-based escalation using n8n workflows triggered via webhooks from the backend.
-
-
 * *(Tech Stack: React, Node.js, Express.js, MongoDB, Groq AI, n8n, JWT)*
 
-### 🔗 URL Shortener  
-A production-ready URL shortener with custom short codes, expiry, Redis caching for instant redirects, and click analytics (per-day breakdown, recent clicks).
-- Supports JWT authentication and rate limiting with Redis store.
-- Designed with Docker Compose for seamless containerized deployment.
-* *(Tech Stack: React, Node.js, MongoDB, Redis, Docker)*
 
 ---
 
