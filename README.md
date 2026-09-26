@@ -1,6 +1,5 @@
-# Hi There 👋
-
-Hi, I'm **Prajwal Biradar** — a backend-focused developer from Mysuru, India, passionate about building **scalable APIs** and integrating **practical AI capabilities** into real-world applications. I work primarily with **Node.js**, **Express.js**, and **Python**, and I've spent the past year combining backend engineering with **RAG pipelines**, **LLM-powered automation**, and **event-driven workflows**.
+# Hi There 
+I'm **Prajwal Biradar** — a backend-focused developer from Mysuru, India, passionate about building **scalable APIs** and integrating **practical AI capabilities** into real-world applications. I work primarily with **Node.js**, **Express.js**, **Java**, **Python**, and **FastAPI**, and I've spent the past year combining backend engineering with **RAG pipelines**, **LLM-powered automation**, and **event-driven workflows**.
 
 With a solid foundation in **Data Structures**, **Algorithms**, and **Software Engineering**, I enjoy architecting systems that are reliable, well-structured, and intelligent.
 
@@ -22,9 +21,24 @@ With a solid foundation in **Data Structures**, **Algorithms**, and **Software E
 ### 📚 Study Buddy — AI-Powered Study Assistant  
 An AI study assistant where students upload PDF notes and receive accurate, context-aware answers using a full **Retrieval-Augmented Generation (RAG)** pipeline.  
 - Built an end-to-end RAG pipeline with PDF parsing, semantic chunking, Gemini embeddings, and MongoDB Atlas Vector Search for document-grounded Q&A.  
-- Implemented real-time AI token streaming via **Server-Sent Events (SSE)**, secure **JWT authentication**, and persistent chat history.  
 - Designed an intent-classifying agent that routes user queries to specialized tasks (quiz generation, summarization, concept explanation, or note search).  
 *Tech Stack: Node.js, Express.js, MongoDB, Google Gemini AI, RAG*
+
+---
+
+### 🛠️ Deskline — AI Helpdesk & Workflow Automation Platform  
+An AI-powered helpdesk where support tickets are automatically classified, summarized, and routed to the right team through **event-driven automation workflows**.  
+- Integrated **Groq AI** to auto-classify incoming tickets by category and priority, and generate concise summaries on every submission, eliminating manual triage.  
+- Engineered an event-driven **n8n** pipeline that asynchronously dispatches tickets across 6 support teams via **webhook callbacks**, with zero manual intervention.  
+*Tech Stack: Node.js, Express.js, MongoDB, Groq AI, n8n, JWT*
+
+---
+
+### 📰 NewsLens — AI-Powered News Intelligence API  
+A **FastAPI** service that auto-fetches news articles every 30 minutes . 
+- Built a news intelligence API using **FastAPI** and **LangChain** that auto-fetches articles via **APScheduler** and processes them through parallel AI chains (summarization, sentiment analysis, topic classification) powered by **Groq**.  
+- Containerized the full stack (FastAPI + Redis + MongoDB) with **Docker Compose** and configured **GitHub Actions** CI running linting (ruff) and **pytest** on every push — with zero external dependencies in tests using `fakeredis` and `mongomock-motor`.  
+*Tech Stack: FastAPI, LangChain, Groq AI, MongoDB (Motor), Redis, APScheduler, Docker, pytest, GitHub Actions*
 
 ---
 
@@ -33,24 +47,6 @@ A property rental platform with secure property management, booking workflows, a
 - Implemented role-based authentication using **JWT tokens** and **bcrypt** password hashing to differentiate between Owner and Tenant accounts.  
 - Developed AI-powered features including a property assistant for listing-related queries and a rental price suggestion system using **Groq LLM**.  
 *Tech Stack: Node.js, Express.js, MongoDB, Groq AI, Docker, Cloudinary*
-
----
-
-### 🛠️ Deskline — AI Helpdesk & Workflow Automation Platform  
-An AI-powered helpdesk where support tickets are automatically classified, summarized, and routed to the right team through **event-driven automation workflows**.  
-- Integrated **Groq AI** to auto-classify incoming tickets by category and priority, and generate concise summaries on every submission, eliminating manual triage.  
-- Engineered an event-driven **n8n** pipeline that asynchronously dispatches tickets across 6 support teams via **webhook callbacks**, with zero manual intervention.  
-- Implemented dynamic **SLA tracking** with priority-based escalation deadlines, paired with an AI-assisted reply generator to accelerate ticket resolution.  
-*Tech Stack: Node.js, Express.js, MongoDB, Groq AI, n8n, JWT*
-
----
-
-## 🌱 Currently Exploring
-
-- **FastAPI** — Building high-performance Python APIs  
-- **LangChain** — LLM orchestration and multi-step AI chains  
-- **Redis** — Caching layers and rate limiting  
-- **APScheduler** — Background task scheduling  
 
 ---
 
@@ -87,6 +83,7 @@ An AI-powered helpdesk where support tickets are automatically classified, summa
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
