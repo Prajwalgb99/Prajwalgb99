@@ -1,4 +1,4 @@
-# Hi There 
+g# Hi There 
 I'm **Prajwal Biradar** — a backend-focused developer from Mysuru, India, passionate about building **scalable APIs** and integrating **practical AI capabilities** into real-world applications. I work primarily with **Node.js**, **Express.js**, **Java**, **Python**, and **FastAPI**, and I've spent the past year combining backend engineering with **RAG pipelines**, **LLM-powered automation**, and **event-driven workflows**.
 
 With a solid foundation in **Data Structures**, **Algorithms**, and **Software Engineering**, I enjoy architecting systems that are reliable, well-structured, and intelligent.
@@ -67,13 +67,6 @@ A property rental platform with secure property management, booking workflows, a
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajwalgb99&theme=tokyonight" alt="Activity Overview" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prajwalgb99&theme=tokyonight" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prajwalgb99&theme=tokyonight" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prajwalgb99&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prajwalgb99&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 ---
