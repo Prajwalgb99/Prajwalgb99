@@ -1,4 +1,4 @@
-g# Hi There 
+Hi There 
 I'm **Prajwal Biradar** — a backend-focused developer from Mysuru, India, passionate about building **scalable APIs** and integrating **practical AI capabilities** into real-world applications. I work primarily with **Node.js**, **Express.js**, **Java**, **Python**, and **FastAPI**, and I've spent the past year combining backend engineering with **RAG pipelines**, **LLM-powered automation**, and **event-driven workflows**.
 
 With a solid foundation in **Data Structures**, **Algorithms**, and **Software Engineering**, I enjoy architecting systems that are reliable, well-structured, and intelligent.
