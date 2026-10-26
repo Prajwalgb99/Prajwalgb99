@@ -50,6 +50,23 @@ A property rental platform with secure property management, booking workflows, a
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwalgb99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Prajwal's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwalgb99&theme=tokyonight&hide_border=true" alt="Prajwal's GitHub Streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalgb99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwalgb99&theme=tokyo-night&hide_border=true&area=true" alt="Prajwal's Activity Graph" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
