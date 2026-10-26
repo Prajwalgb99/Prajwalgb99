@@ -35,7 +35,7 @@ An AI-powered helpdesk where support tickets are automatically classified, summa
 ---
 
 ### 📰 NewsLens — AI-Powered News Intelligence API  
-A **FastAPI** service that auto-fetches news articles every 30 minutes . 
+A **FastAPI** service that auto-fetches news articles every 30 minutes.  
 - Built a news intelligence API using **FastAPI** and **LangChain** that auto-fetches articles via **APScheduler** and processes them through parallel AI chains (summarization, sentiment analysis, topic classification) powered by **Groq**.  
 - Containerized the full stack (FastAPI + Redis + MongoDB) with **Docker Compose** and configured **GitHub Actions** CI running linting (ruff) and **pytest** on every push — with zero external dependencies in tests using `fakeredis` and `mongomock-motor`.  
 *Tech Stack: FastAPI, LangChain, Groq AI, MongoDB (Motor), Redis, APScheduler, Docker, pytest, GitHub Actions*
@@ -62,9 +62,19 @@ A property rental platform with secure property management, booking workflows, a
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prajwalgb99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Prajwal's GitHub Trophies" />
+  <img src="https://ghchart.rshah.org/00b4d8/Prajwalgb99" alt="Prajwal's Contribution Graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajwalgb99&theme=tokyonight" alt="Activity Overview" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prajwalgb99&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prajwalgb99&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prajwalgb99&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prajwalgb99&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</p>
 
 ---
 
